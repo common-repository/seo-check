@@ -1,0 +1,30 @@
+/* Widget styling */
+
+.eranker-plugin-widget .superreport-seo{
+/*    max-height: 1000px;*/
+    overflow-x: hidden;
+}
+
+#eranker-plugin-widget-create-2 > div:nth-child(3) > div > div > div 
+> div.widget-inside.seocheck_nopadding > form > table > tbody > 
+tr:nth-child(3) > td > .factor_list_checkbox{
+    display: block;
+    max-width: 145px;
+    word-break: break-all;
+}
+td.second-td{
+    vertical-align: top;
+}
+td.seocheck_nobg{
+    word-break: break-all;
+}
+#eranker-plugin-widget-create-2 .seocheck_nobg {
+    max-width: 116px;
+    word-break: break-all!important;
+    padding: 0px;
+}
+#eranker-plugin-widget-create-2 .seocheck_nobg .er_plugin .factor_list_checkbox{
+    max-width: 114px!important;
+    display: inline-block!important;
+    word-break: break-all;
+}
